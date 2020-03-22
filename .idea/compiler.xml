@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server-9000" />
         <module name="provider-order-8002" />
-        <module name="eureka-server-9001" />
-        <module name="consumer-user-8001" />
         <module name="eureka" />
+        <module name="consumer-user-8001" />
+        <module name="eureka-server-9001" />
       </profile>
     </annotationProcessing>
   </component>
